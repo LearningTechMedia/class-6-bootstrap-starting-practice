@@ -1,0 +1,23 @@
+.carousel-item img {
+	height:450px;
+	width: 1200px;
+	object-fit: cover;
+	object-position: center;
+}
+
+.col-xl-4 img{
+		object-fit: cover;
+}
+
+
+
+
+
+.divider{
+border-top: 2px solid rgba(0,0,0,.1);
+}
+
+footer {
+	height:100px;
+	background: rgba(0,0,0,.1)
+}
